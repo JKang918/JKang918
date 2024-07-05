@@ -18,7 +18,7 @@ After observing firsthand the increasing emphasis on computer and quantitative s
 
 ### Languages and Tools
 
-Main: Python, SQL(MySQL)\
+Main: Python, SQL(MySQL), Tableau\
 Working knowledge: C++, R, STATA
 
 ### Contact Information
