@@ -6,15 +6,22 @@ Previously, I had been a rating analyst at a credit rating agency, where I spent
 
 After observing firsthand the increasing emphasis on computer and quantitative skills, I decided to take the plunge; leave my previous job and focus on enhancing those skills as a full-time graduate student.
 
-### Relevant Coursework
+### Relevant Coursework (Expected)
+
+- Machine Learning & Statistics
+  - [ISYE 6740](https://catalog.gatech.edu/search/?P=ISYE%206740) Computational Data Analysis: Learning, Mining, and Computation
+  - [ISYE 7406](https://catalog.gatech.edu/search/?P=ISYE%207406) Data Mining and Statistical Learning
+  - [ISYE 6414](https://catalog.gatech.edu/search/?P=ISYE%206414) Statistical Modeling and Regression Analysis
+  - [ISYE 6650](https://catalog.gatech.edu/search/?P=ISYE%206650)	Probabilistic Models and Their Applications
+  - [ISYE 6402](https://catalog.gatech.edu/search/?P=ISYE%206402) Time Series Analysis
 
 - Simulation
-- Computational Data Analysis: Learning, Mining, and Computation
-- Statistical Modeling and Regression Analysis
-- Time Series Analysis
-- Computational Statistics
-- Data Mining and Statistical Learning
+  - [ISYE6644](https://catalog.gatech.edu/search/?P=ISYE%206644) Simulation
+  - [ISYE6645](https://catalog.gatech.edu/search/?P=ISYE%206645) Monte-Carlo Methods
 
+- Optimization
+  - [ISYE 6669](https://catalog.gatech.edu/search/?P=ISYE%206669) Deterministic Optimization
+  - [ISYE 6661](https://catalog.gatech.edu/search/?P=ISYE%206661) Linear Optimization
 
 ### Languages and Tools
 
