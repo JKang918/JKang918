@@ -22,6 +22,7 @@ After observing firsthand the increasing emphasis on computer and quantitative s
 - Optimization
   - [ISYE 6669](https://catalog.gatech.edu/search/?P=ISYE%206669) Deterministic Optimization
   - [ISYE 6661](https://catalog.gatech.edu/search/?P=ISYE%206661) Linear Optimization
+  - ISYE 6673 Financial Optimization Models
 
 ### Languages and Tools
 
