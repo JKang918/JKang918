@@ -1,6 +1,6 @@
 ### Introduction
 
-I am a prospective graduate student at Georgia Tech, majoring in Operations Research.
+I am a graduate student at Georgia Tech, majoring in Operations Research.
 
 Previously, I had been a rating analyst at a credit rating agency, where I spent over four years delving into financial contracts to evaluate the structural integrity of complex financial instruments. My areas of expertise during my time at the agency included securitized financial instruments and credit derivatives.
 
@@ -22,7 +22,6 @@ After observing firsthand the increasing emphasis on computer and quantitative s
 - Optimization
   - [ISYE 6669](https://catalog.gatech.edu/search/?P=ISYE%206669) Deterministic Optimization
   - [ISYE 6661](https://catalog.gatech.edu/search/?P=ISYE%206661) Linear Optimization
-  - ISYE 6673 Financial Optimization Models
 
 ### Languages and Tools
 
@@ -31,4 +30,4 @@ Working knowledge: C++, R, STATA
 
 ### Contact Information
 
-Email: [Jihyun Kang](jihyun.kang.0110@gmail.com, "jihyun.kang.0110@gmail.com")
+Email: jkang463@gatech.edu
