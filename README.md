@@ -9,10 +9,10 @@ After observing firsthand the increasing emphasis on computer and quantitative s
 ### Relevant Coursework (Expected)
 
 - Machine Learning & Statistics
-  - [ISYE 6740](https://catalog.gatech.edu/search/?P=ISYE%206740) Computational Data Analysis: Learning, Mining, and Computation
-  - [ISYE 7406](https://catalog.gatech.edu/search/?P=ISYE%207406) Data Mining and Statistical Learning
-  - [ISYE 6414](https://catalog.gatech.edu/search/?P=ISYE%206414) Statistical Modeling and Regression Analysis
   - [ISYE 6650](https://catalog.gatech.edu/search/?P=ISYE%206650)	Probabilistic Models and Their Applications
+  - [ISYE 6740](https://catalog.gatech.edu/search/?P=ISYE%206740) Computational Data Analysis: Learning, Mining, and Computation
+  - [ISYE 6414](https://catalog.gatech.edu/search/?P=ISYE%206414) Statistical Modeling and Regression Analysis
+  - [ISYE 7406](https://catalog.gatech.edu/search/?P=ISYE%207406) Data Mining and Statistical Learning
   - [ISYE 6402](https://catalog.gatech.edu/search/?P=ISYE%206402) Time Series Analysis
 
 - Simulation
