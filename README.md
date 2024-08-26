@@ -9,19 +9,20 @@ After observing firsthand the increasing emphasis on computer and quantitative s
 ### Relevant Coursework (Expected)
 
 - Machine Learning & Statistics
-  - [ISYE 6650](https://catalog.gatech.edu/search/?P=ISYE%206650)	Probabilistic Models and Their Applications
-  - [ISYE 6740](https://catalog.gatech.edu/search/?P=ISYE%206740) Computational Data Analysis: Learning, Mining, and Computation
-  - [ISYE 6414](https://catalog.gatech.edu/search/?P=ISYE%206414) Statistical Modeling and Regression Analysis
-  - [ISYE 7406](https://catalog.gatech.edu/search/?P=ISYE%207406) Data Mining and Statistical Learning
-  - [ISYE 6402](https://catalog.gatech.edu/search/?P=ISYE%206402) Time Series Analysis
+  - [ISYE 6650 Probabilistic Models and Their Applications](https://catalog.gatech.edu/search/?P=ISYE%206650): stochastic models such as Markov Process	
+  - [ISYE 6740 Computational Data Analysis: Learning, Mining, and Computation](https://catalog.gatech.edu/search/?P=ISYE%206740): machine learning (supervised learning and unsupervised learning)  
+  - [ISYE 6414 Statistical Modeling and Regression Analysis](https://catalog.gatech.edu/search/?P=ISYE%206414): modeling with multiple regression, Lasso and Ridge regression 
+  - [ISYE 6404 Nonparametric Data Analysis](https://catalog.gatech.edu/search/?P=ISYE%206404): categorical data analysis 
+  - [ISYE 6402 Time Series Analysis](https://catalog.gatech.edu/search/?P=ISYE%206402): ARIMA, SARIMA, ARCH, GARCH
+  - [CS 6505 Computability, Complexity](https://sites.cc.gatech.edu/classes/AY2010/cs6505_spring/): nethods and theories to calculate complexities of various algorithms
 
 - Simulation
-  - [ISYE6644](https://catalog.gatech.edu/search/?P=ISYE%206644) Simulation
-  - [ISYE6645](https://catalog.gatech.edu/search/?P=ISYE%206645) Monte-Carlo Methods
+  - [ISYE6644 Simulation](https://catalog.gatech.edu/search/?P=ISYE%206644): simulation 101 
+  - [ISYE6645 Monte-Carlo Methods](https://catalog.gatech.edu/search/?P=ISYE%206645): applications of Monte-Carlo methods 
 
 - Optimization
-  - [ISYE 6669](https://catalog.gatech.edu/search/?P=ISYE%206669) Deterministic Optimization
-  - [ISYE 6661](https://catalog.gatech.edu/search/?P=ISYE%206661) Linear Optimization
+  - [ISYE 6669 Deterministic Optimization](https://catalog.gatech.edu/search/?P=ISYE%206669): linear programming, non-linear programming 
+  - [ISYE 8813 Stochastic Programming](https://catalog.gatech.edu/search/?P=ISYE%208813): stocahstic programming methods
 
 ### Languages and Tools
 
