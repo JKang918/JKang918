@@ -10,18 +10,17 @@ After observing firsthand the increasing emphasis on computer and quantitative s
 
 - Machine Learning & Statistics
   - [ISYE 6650 Probabilistic Models and Their Applications](https://catalog.gatech.edu/search/?P=ISYE%206650): stochastic models such as Markov Process	
-  - [ISYE 6740 Computational Data Analysis: Learning, Mining, and Computation](https://catalog.gatech.edu/search/?P=ISYE%206740): machine learning (supervised learning and unsupervised learning)  
-  - [ISYE 6414 Statistical Modeling and Regression Analysis](https://catalog.gatech.edu/search/?P=ISYE%206414): modeling with multiple regression, Lasso and Ridge regression 
-  - [ISYE 6404 Nonparametric Data Analysis](https://catalog.gatech.edu/search/?P=ISYE%206404): categorical data analysis 
-  - [ISYE 6402 Time Series Analysis](https://catalog.gatech.edu/search/?P=ISYE%206402): ARIMA, SARIMA, ARCH, GARCH
-  - [CS 6505 Computability, Complexity](https://sites.cc.gatech.edu/classes/AY2010/cs6505_spring/): nethods and theories to calculate complexities of various algorithms
+  - [ISYE 6740 Computational Data Analysis: Learning, Mining, and Computation](https://catalog.gatech.edu/search/?P=ISYE%206740): machine learning (clustering, mixture models, support vector models, neural networks, regularized regressions, etc.) 
+  - [ISYE 6414 Statistical Modeling and Regression Analysis](https://catalog.gatech.edu/search/?P=ISYE%206414): modeling with multiple regression, logistic regression, Lasso and Ridge regression 
+  - [ISYE 6402 Time Series Analysis](https://catalog.gatech.edu/search/?P=ISYE%206402): ARIMA, SARIMA
 
 - Simulation
-  - [ISYE6644 Simulation](https://catalog.gatech.edu/search/?P=ISYE%206644): simulation 101 
+  - [ISYE6644 Simulation](https://catalog.gatech.edu/search/?P=ISYE%206644): simulation with ARENA software
   - [ISYE6645 Monte-Carlo Methods](https://catalog.gatech.edu/search/?P=ISYE%206645): applications of Monte-Carlo methods 
 
 - Optimization
-  - [ISYE 6669 Deterministic Optimization](https://catalog.gatech.edu/search/?P=ISYE%206669): linear programming, non-linear programming 
+  - [ISYE 6669 Deterministic Optimization](https://catalog.gatech.edu/search/?P=ISYE%206669): linear programming, integer programming, NLP
+  - [ISYE 6679 Computational Methods in Optimization](https://catalog.gatech.edu/search/?P=ISYE%206679): Computational Optimization
   - [ISYE 8813 Stochastic Programming](https://catalog.gatech.edu/search/?P=ISYE%208813): stocahstic programming methods
 
 ### Languages and Tools
