@@ -30,7 +30,7 @@ After observing firsthand the increasing emphasis on computer and quantitative s
 
 ### Languages and Tools
 
-Main: Python, SQL(MySQL), Tableau\
+Main: Python, SQL(MySQL), Tableau, Power BI, Gurobi, Arena\
 Working knowledge: C++, R, STATA
 
 ### Contact Information
