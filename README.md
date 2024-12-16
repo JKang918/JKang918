@@ -15,6 +15,7 @@ After observing firsthand the increasing emphasis on computer and quantitative s
 
 - Optimization
   - [ISYE 6669 Deterministic Optimization](https://catalog.gatech.edu/search/?P=ISYE%206669): linear programming, integer programming, NLP
+  - [ISYE 6662 Discrete Optimization](https://catalog.gatech.edu/search/?P=ISYE%206662): Integer Programming, Combinatorial Optimization
   - [ISYE 6679 Computational Methods in Optimization](https://catalog.gatech.edu/search/?P=ISYE%206679): Computational Optimization
 
 - Simulation
