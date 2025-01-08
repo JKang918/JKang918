@@ -14,20 +14,18 @@ After observing firsthand the increasing emphasis on computer and quantitative s
   - [ISYE 8813 Infrastructure Optimization](https://catalog.gatech.edu/search/?P=ISYE%208813): Infrastructure Optimization
 
 - Optimization
-  - [ISYE 6669 Deterministic Optimization](https://catalog.gatech.edu/search/?P=ISYE%206669): linear programming, integer programming, NLP
-  - [ISYE 6662 Discrete Optimization](https://catalog.gatech.edu/search/?P=ISYE%206662): Integer Programming, Combinatorial Optimization
-  - [ISYE 6679 Computational Methods in Optimization](https://catalog.gatech.edu/search/?P=ISYE%206679): Computational Optimization
+  - [ISYE 6669 Deterministic Optimization](https://catalog.gatech.edu/search/?P=ISYE%206669): linear programming (simplex, dual simplex, network simplex), integer programming (branch-bound, knapsack, implicit enumeration), NLP (constrained, unconstrained)
+  - [ISYE 8803 Discrete Optimization]: Integer Programming, Combinatorial Optimization, Algorithms and their computational costs
+  - [ISYE 6679 Computational Methods in Optimization](https://catalog.gatech.edu/search/?P=ISYE%206679): Optimization speedups by Heterogeneous parellel computing with CUDA C
 
 - Simulation
   - [ISYE6644 Simulation](https://catalog.gatech.edu/search/?P=ISYE%206644): simulation with ARENA software
   - [ISYE6645 Monte-Carlo Methods](https://catalog.gatech.edu/search/?P=ISYE%206645): applications of Monte-Carlo methods 
 
 - Machine Learning & Statistics
-  - [ISYE 6650 Probabilistic Models and Their Applications](https://catalog.gatech.edu/search/?P=ISYE%206650): DTMC, CTMC, Jackson Networks, Reliability
+  - [ISYE 6650 Probabilistic Models and Their Applications](https://catalog.gatech.edu/search/?P=ISYE%206650): DTMC, CTMC, Jackson Networks, Reliability, Poisson process, birth-death process, Brownian motion
   - [ISYE 6740 Computational Data Analysis: Learning, Mining, and Computation](https://catalog.gatech.edu/search/?P=ISYE%206740): Supervised and Unsupervised learning algorithms; theory and application
   - [ISYE 6414 Statistical Modeling and Regression Analysis](https://catalog.gatech.edu/search/?P=ISYE%206414): Multiple regression, Logistic regression, Poisson regression, Lasso and Ridge regression
-  - [ISYE 6402 Time Series Analysis](https://catalog.gatech.edu/search/?P=ISYE%206402): ARMA, ARIMA, SARIMA, SARIMAX, ARCH, GARCH 
-  
 
 ### Languages and Tools
 
