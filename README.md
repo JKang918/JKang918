@@ -11,11 +11,11 @@ After observing firsthand the increasing emphasis on computer and quantitative s
 - Industry Applications
   - [ISYE 6413 Design and Analysis of Experiments](https://catalog.gatech.edu/search/?P=ISYE%206413): ANOVA,factoral designs, orthogonal arrays, robust parameter design for process improvement
   - [ISYE 6201 Manufacturing Systems](https://catalog.gatech.edu/search/?P=ISYE%206201): analysis of flows, bottlenecks and queuing, types of operations, manufacturing inventories, aggregreate production planning, lot sizes and lead times, and pull production systems.
-  - [ISYE 8813 Infrastructure Optimization](https://catalog.gatech.edu/search/?P=ISYE%208813): Infrastructure Optimization
+  - ISYE 8813 Infrastructure Optimization: Infrastructure Optimization
 
 - Optimization
   - [ISYE 6669 Deterministic Optimization](https://catalog.gatech.edu/search/?P=ISYE%206669): linear programming (simplex, dual simplex, network simplex), integer programming (branch-bound, knapsack, implicit enumeration), NLP (constrained, unconstrained)
-  - [ISYE 8803 Discrete Optimization]: Integer Programming, Combinatorial Optimization, Algorithms and their computational costs
+  - ISYE 8803 Discrete Optimization: Integer Programming, Combinatorial Optimization, Algorithms and their computational costs
   - [ISYE 6679 Computational Methods in Optimization](https://catalog.gatech.edu/search/?P=ISYE%206679): Optimization speedups by Heterogeneous parellel computing with CUDA C
 
 - Simulation
