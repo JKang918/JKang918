@@ -34,5 +34,4 @@ Working knowledge: C++, R, STATA
 
 ### Contact Information
 
-Email: jkang463@gatech.edu\
-Resume: [Resume on Gatech Career Center](https://gatech-csm.symplicity.com/profiles/jihyun.kang)
+Email: jkang463@gatech.edu
