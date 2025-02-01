@@ -4,6 +4,11 @@
 - Current CPA (Washington)
 - Former Analyst (structured finance)
 
+### Industry Background
+
+- Structured Products (CDO, CLO, ABS, Credit Derivatives, Hybrid Bonds, CoCo Bonds, Synthetic COD)
+- Financial Transactions (M&A, Maritime, Real Estate, Credit Card Receivables, Foreign Bank Deposits, Project Finance etc.)
+
 ### Relevant Coursework Areas at GT
 
 - Optimization
