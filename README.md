@@ -6,7 +6,7 @@
 
 ### Industry Background
 
-- Structured Products (CDO, CLO, ABS, Credit Derivatives, Hybrid Bonds, CoCo Bonds, Synthetic COD)
+- Structured Products (CDO, CLO, ABS, Credit Derivatives, Hybrid Bonds, RCPS, CoCo Bonds, Synthetic COD)
 - Financial Transactions (M&A, Maritime, Real Estate, Credit Card Receivables, Foreign Bank Deposits, Project Finance etc.)
 
 ### Relevant Coursework Areas at GT
