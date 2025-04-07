@@ -2,24 +2,26 @@
 
 - Current Georgia Tech Graduate Student (MS Operations Research)
 - Current CPA (Washington)
-- Former Analyst (structured finance)
 
 ### Industry Background
 
+1. Credit Rating (Korea)
 - Structured Products (CDO, CLO, ABS, Credit Derivatives, Hybrid Bonds, RCPS, CoCo Bonds, Synthetic COD)
 - Financial Transactions (M&A, Maritime, Real Estate, Credit Card Receivables, Foreign Bank Deposits, Project Finance etc.)
 
-### Relevant Coursework Areas at GT
+2. CLO Arranging (United States)
+- TBD
+
+### Academic Background
 
 - Optimization
 - Probabilistic Models
-- Machine Learning / Statistics
-- Industry Applications
+- Finance
+- Accounting
 
 ### Languages and Tools
 
-Main: Python(pandas, numpy, scipy, scikit-learn, pytorch), SQL(MySQL), Tableau, Power BI, Gurobi, Arena\
-Working knowledge: C++, R, STATA
+- Python, Excel
 
 ### Contact Information
 
