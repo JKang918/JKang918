@@ -1,16 +1,21 @@
-## Hi there 👋
+### Introduction
 
-<!--
-**JKang918/JKang918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Current Georgia Tech Graduate Student (MS Operations Research)
+- Current CPA (Washington)
 
-Here are some ideas to get you started:
+### Industry Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Credit Rating (Korea)
+2. Investment Banking (United States)
+
+### Academic Background
+
+- Optimization, Probabilistic Models, Econometrics, Finance, Accounting
+
+### Languages and Tools
+
+- Python, Excel
+
+### Contact Information
+
+Email: jkang463@gatech.edu
