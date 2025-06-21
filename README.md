@@ -3,6 +3,11 @@
 - Current Georgia Tech Graduate Student (MS Operations Research)
 - Current CPA (Washington)
 
+### Current Interests
+
+- CLO: CLO management, CLO data analytics, CLO equity investments, CLO pricing
+- Financial Data Analytics
+
 ### Industry Background
 
 1. Credit Rating (Korea)
