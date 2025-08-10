@@ -5,21 +5,18 @@
 
 ### Current Interests
 
-- CLO: CLO management, CLO data analytics, CLO equity investments, CLO pricing
-- Financial Data Analytics
+- Structured Products: CLO, MBS, ABS
+- Derivatives Valuation and Accounting Standards
+- Technical Methods; Time Series, Econometrics, Optimization
 
 ### Industry Background
 
-1. Credit Rating (Korea)
-2. Investment Banking (United States)
-
-### Academic Background
-
-- Optimization, Probabilistic Models, Econometrics, Finance, Accounting
+1. Credit Rating (Korea) - Structured Products Credit Risk Analysis e.g., CDO, Synthetic CDO
+2. Investment Banking (United States) - CLO Analytics
 
 ### Languages and Tools
 
-- Python, Excel
+- Python, Excel (VBA)
 
 ### Contact Information
 
