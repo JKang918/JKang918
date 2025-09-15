@@ -5,18 +5,11 @@
 
 ### Current Interests
 
-- Structured Products: CLO, MBS, ABS
-- Derivatives Valuation and Accounting Standards
-- Technical Methods; Time Series, Econometrics, Optimization
-
-### Industry Background
-
-1. Credit Rating (Korea) - Structured Products Credit Risk Analysis e.g., CDO, Synthetic CDO
-2. Investment Banking (United States) - CLO Analytics
+- Econometrics, Optimization, Linear Algebra
 
 ### Languages and Tools
 
-- Python, Excel (VBA)
+- Python, Excel
 
 ### Contact Information
 
